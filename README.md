@@ -27,18 +27,6 @@ Track current song and play history.
 
 Skills: arrays, objects, classes, methods for manipulation.
 
-----------------------------------------------------------------------
-Inventory / Shop Simulator
-
-You have a “store” with items (name, price, quantity).
-
-Player can buy or sell items.
-
-Track player money and inventory.
-
-Optional: restock items randomly.
-
-Skills: arrays of objects, loops, functions, simple economy logic.
 ----------------------------------------------------------------------     
 Personal Budget Tracker
 
