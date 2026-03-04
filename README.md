@@ -1,6 +1,7 @@
 # Practising my skills in Typescript without the use of AI
 - The goal is to code a simple task in 1-3 hours depending on the scope of the task and move on
 - All cases will be reviewd with AI after completion to learn more of the different ways to implement
+- All of the tasks are terminal based only
 
 ## Running the code
 ```
